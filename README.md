@@ -73,20 +73,6 @@ This document provides a step-by-step guide on how to use Tableau for performing
     - Drag `Title` to the Rows shelf and change the aggregation to `Count`.
     - This will create a histogram showing the distribution of content release years.
 
-3. **Top 10 Directors with Most Titles**:
-    - Drag `Director` to the Rows shelf.
-    - Drag `Title` to the Columns shelf and change the aggregation to `Count`.
-    - Sort the data and filter to show the top 10 directors.
-    - This will create a bar chart showing the top 10 directors by the number of titles.
-
-### Step 3: Create a Dashboard for Netflix
-
-1. **Create a New Dashboard**:
-    - Click on the `New Dashboard` icon at the bottom of the Tableau workspace.
-    - Drag your created sheets (Content Count by Type, Release Year Distribution, Top 10 Directors) into the dashboard workspace.
-    - Arrange and resize the visualizations as needed.
-    - Add filters and interactive elements to enhance the dashboard's usability.
-
 ## Publishing and Sharing Dashboards
 
 1. **Save Your Work**:
